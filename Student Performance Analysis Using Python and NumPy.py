@@ -2,7 +2,7 @@
 print('Student Marks')
 print('------- -----')
 import numpy as np
-names=np.array(['Dinesh','Ravi','Raju','Kusma','Lavada','Krishna'])
+names=np.array(['Dinesh','Ravi','Raju','Kusma','Asif','Krishna'])
 subjects=np.array(['Tel','Hin','Eng','Mat','Sci','Soc'])
 marks=np.array([[89,97,85,86,90,79],
                 [78,57,48,78,58,45],
@@ -75,18 +75,3 @@ print('No. of students got C-Grade=',class_cgrade)
 print('No. of students got D-Grade=',class_dgrade)
 print('No. of students got E-Grade=',class_egrade)
 print('            The End          ')
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
